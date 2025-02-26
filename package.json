@@ -10,6 +10,8 @@
   "author": "Brad Traversy",
   "license": "MIT",
   "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
     "express": "^4.18.2"
   },
   "devDependencies": {
